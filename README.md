@@ -15,6 +15,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-world-docker-action@v1
+uses: actions/GitHubActionsTesting@v1
 with:
   who-to-greet: 'danyaberezun'
