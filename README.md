@@ -15,6 +15,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: sergeykhargelia/GitHubActionsTesting@v1
+uses: sergeykhargelia/GitHubActionsTesting@main
 with:
   who-to-greet: 'danyaberezun'
